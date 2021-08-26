@@ -1,15 +1,6 @@
-# Basic Sample Hardhat Project
+# ERC20 Token with Capped Supply
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+This project is part of Solidity learning, and assignment 3 B in Quarter 3 of PIAIC.org Blockchain course
+this code was deployed to Ropsten Network using Hardhat
+Contract address is : 0x281F42d27182D9DdC3337E7EF9ab1886E6Ebd8C7
+and Transaction link is : https://ropsten.etherscan.io/address/0x281F42d27182D9DdC3337E7EF9ab1886E6Ebd8C7
